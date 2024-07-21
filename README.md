@@ -15,4 +15,4 @@ This is a simple blog application built using FastAPI and MongoDB. It allows use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-mongodb-blog.git
+   git clone https://github.com/karanshewale0/blog_app.git
